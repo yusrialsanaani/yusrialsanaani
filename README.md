@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusri Al-Sanaani</h1>
 <h3 align="center">A passionate Machine Learning Engineer with multidisciplinary background in biomedical engineering, mechatronics, and machine learning.</h3>
 
-<h3 align="left">Reach me by: **yusri.alsanaani@gmail.com**
+<h3 align="left">Reach me by: yusri.alsanaani@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
