@@ -3,7 +3,7 @@
 
 <h3 align="center"> Email: yusri.alsanaani@gmail.com <a href="https://twitter.com/@yusrisanaani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yusrisanaani" height="40" width="50" /></a> <a href="https://linkedin.com/in/yusri-al-sanaani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusri-al-sanaani" height="40" width="50" /></a> </h3>
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail-logo.png" alt="Yusri" height="40" width="50" /></a>
+<img align="center" src="![Gmail-logo](https://user-images.githubusercontent.com/89004966/210162511-5e690c25-b0a0-4bcf-b631-0215fef7bd57.png)" alt="Yusri" height="40" width="50" /></a>
 
  
 
