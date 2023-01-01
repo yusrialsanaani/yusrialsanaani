@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yusri Al-Sanaani</h1>
-<h3 align="center">A passionate Machine Learning Engineer with multidisciplinary background in biomedical engineering, mechatronics, and machine learning.</h3>
+<h1 align="center"> **Yusri Al-Sanaani**</h1>
+<h3 align="center"> Machine Learning Engineer with Multidisciplinary Background in Biomedical Engineering, Mechatronics, and Machine learning.</h3>
+
+**Interests:**
+- Machine Learning/ Deep Learning
+- Computer Vision
 
 Reach me by **yusri.alsanaani@gmail.com**
 
