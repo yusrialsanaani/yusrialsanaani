@@ -8,15 +8,6 @@
 <a href="https://linkedin.com/in/yusri-al-sanaani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusri-al-sanaani" height="40" width="50" /></a> </h3>
 
 
-
-
- 
-
- 
-**Interests:**
-- Machine Learning/ Deep Learning
-- Computer Vision
-
 # **Skills**
 
 **Programming:** 
@@ -24,6 +15,7 @@
 Python | SQL | MATLAB | Scala | LabVIEW | Mathematica.
 
 **Tools:** 
+
 MongoDB | Spark | Azure | Jupyter Notebook | Colab | Visual Studio | Version Control/Git. 
 
 **Machine Learning:** 
