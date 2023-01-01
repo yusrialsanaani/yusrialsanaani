@@ -7,6 +7,7 @@
 
 **Reach me by:**
 
+![Gmail-logo](https://user-images.githubusercontent.com/89004966/210160502-7990dcbc-b9a0-4545-9cf8-17356df46990.png)
 **yusri.alsanaani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
