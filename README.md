@@ -8,7 +8,7 @@
 **Reach me by:**
 
 
-<img align="left" ![Gmail-logo](https://user-images.githubusercontent.com/89004966/210160525-e3d0f7e8-8d54-4595-8c0a-2542c6dd98a4.png) alt="@yusrisanaani" height="40" width="50" />
+<img align="left" "![Gmail-logo](https://user-images.githubusercontent.com/89004966/210160525-e3d0f7e8-8d54-4595-8c0a-2542c6dd98a4.png)" alt="@yusrisanaani" height="40" width="50" />
 **yusri.alsanaani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
