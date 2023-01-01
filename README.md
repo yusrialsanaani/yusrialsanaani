@@ -8,7 +8,7 @@ Reach me by **yusri.alsanaani@gmail.com**
 <a href="https://twitter.com/@yusrisanaani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yusrisanaani" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/yusri-al-sanaani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusri-al-sanaani" height="40" width="50" /></a>
   
-<a href="yusri.alsanaani@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail.svg" alt="yusri-al-sanaani" height="40" width="50" /></a>
+<a href="yusri.alsanaani@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail-logo.png" alt="yusri-al-sanaani" height="40" width="50" /></a>
  
 </p>
 
