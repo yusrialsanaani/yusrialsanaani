@@ -1,7 +1,9 @@
 <h1 align="center"> Yusri Al-Sanaani</h1>
 <h3 align="center"> Machine Learning Engineer with Multidisciplinary Background in Biomedical Engineering, Mechatronics, and Machine learning.</h3>
 
-<h3 align="center"> **Email:** yusri.alsanaani@gmail.com <a href="https://twitter.com/@yusrisanaani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yusrisanaani" height="40" width="50" /></a> <a href="https://linkedin.com/in/yusri-al-sanaani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusri-al-sanaani" height="40" width="50" /></a> </h3>
+<h3 align="center"> Email: yusri.alsanaani@gmail.com <a href="https://twitter.com/@yusrisanaani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yusrisanaani" height="40" width="50" /></a> <a href="https://linkedin.com/in/yusri-al-sanaani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusri-al-sanaani" height="40" width="50" /></a> </h3>
+
+<a href="https://www.google.com/intl/en-GB/gmail/about/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail-logo.png" alt="yusri.alsanaani@gmail.com" height="40" width="50" /></a>
 
  
 
