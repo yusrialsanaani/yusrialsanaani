@@ -60,3 +60,26 @@
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
  
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+# **Skills**
+
+**Programming:** 
+
+Python | SQL | MATLAB | Scala | LabVIEW | Mathematica.
+
+**Tools:** 
+MongoDB | Spark | Azure | Jupyter Notebook | Colab | Visual Studio | Version Control/Git. 
+
+**Machine Learning:** 
+
+Regression | Clustering | Classification | Regularization | Deep Learning | Computer Vision | NLP | Recommender Systems | Data Visualization | Statistical Analysis | Explainable AI.
+
+**Packages:** 
+
+Scikit-Learn | NumPy | SciPy | Pandas | NLTK | BeautifulSoup | Matplotlib | Seaborn | Plotly | Statsmodels | OpenCV | TensorFlow | Keras | Pytorch | SHAP | LIME | Flask.
+
+**Modelling & Simulation:**
+
+Solidworks | COMSOL Multiphysics | 3D PRINTING (FDM).
+
